@@ -1,0 +1,64 @@
+{
+  "Vahli Dikri Yojana": {
+    "description": "Improve the status of the girl child in Gujarat by promoting education and well-being.",
+    "benefits": "Financial assistance of Rs. 1,10,000 across three installments.",
+    "eligibility": "First two girl children in family, resident of Gujarat, family income ≤ Rs. 2 lakh, girl born on or after Aug 2, 2019.",
+    "application_process": "Apply via online portal, Anganwadi center, or Gram Panchayat office.",
+    "documents_required": "Birth certificate, income certificate, Aadhaar card."
+  },
+  "Mukhyamantri Amrutum Yojana": {
+    "description": "Health insurance scheme for families below poverty line providing financial protection for critical illnesses.",
+    "benefits": "Cashless treatment up to Rs. 3 lakh, transportation allowance Rs. 300.",
+    "eligibility": "BPL families, later extended to families earning ≤ Rs. 4 lakh.",
+    "application_process": "Open enrollment year-round via official website and helpline."
+  },
+  "Niradhar Vrudhha Pension Yojana": {
+    "description": "Financial support pension for destitute senior citizens lacking support.",
+    "benefits": "Monthly pension of Rs. 1,000 (varies by rural/urban).",
+    "eligibility": "60+ years, destitute, income ≤ Rs. 1.2 lakh rural / Rs. 1.5 lakh urban.",
+    "application_process": "Offline application at government offices.",
+    "documents_required": "Age proof, income certificate, ration card, Aadhaar."
+  },
+  "Mukhyamantri Yuva Swavalamban Yojana": {
+    "description": "Pension scheme providing financial assistance to eligible widows.",
+    "benefits": "Monthly pension of Rs. 1,250.",
+    "eligibility": "Widow, Gujarat resident, aged 18-40, family income ≤ Rs. 1.2 lakh, not remarried.",
+    "application_process": "Offline via Mamlatdar office or Village Computer Entrepreneur."
+  },
+  "Kanya Kelavani Yojana": {
+    "description": "Promote girl child education with incentives and scholarships.",
+    "benefits": "Free education and scholarships for girls from primary to higher secondary.",
+    "eligibility": "Girls from Gujarat, family income below a specified limit.",
+    "application_process": "Through government schools and enrollment drives."
+  },
+  "Vandan Matru Yojana": {
+    "description": "Maternity benefit scheme providing financial assistance to pregnant and lactating women.",
+    "benefits": "Financial assistance of Rs. 4,000 in stages during pregnancy and breastfeeding.",
+    "eligibility": "Pregnant/lactating women in Gujarat, family income ≤ Rs. 2 lakh.",
+    "application_process": "At Anganwadi centers and health facilities."
+  },
+  "Bal Sakha Yojana": {
+    "description": "Healthcare for newborns to reduce infant mortality.",
+    "benefits": "Expert neonatal care, immunizations, nutrition advice, free services.",
+    "eligibility": "Newborns in BPL families, tribal areas, or government healthcare institutions.",
+    "application_process": "Approach healthcare institution or pediatrician."
+  },
+  "Swarnim Gujarat Scholarship Scheme": {
+    "description": "Scholarships to promote higher education for meritorious students from economically weaker backgrounds.",
+    "benefits": "Tuition fee reimbursement and monthly maintenance allowances.",
+    "eligibility": "Gujarat domiciles, minimum qualifying marks, family income limits.",
+    "application_process": "Online through Digital Gujarat portal."
+  },
+  "Ganga Swaroopa Yojana": {
+    "description": "Financial assistance for widows to support dignified livelihood.",
+    "benefits": "Socioeconomic support to widows.",
+    "eligibility": "Widows in Gujarat.",
+    "application_process": "Not specified in detail."
+  },
+  "Mukhyamantri Mahila Utkarsh Yojana": {
+    "description": "Empowerment initiative for women.",
+    "benefits": "Not fully detailed in provided info.",
+    "eligibility": "Women residents of Gujarat.",
+    "application_process": "Not specified in detail."
+  }
+}
